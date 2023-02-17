@@ -35,6 +35,7 @@ class FunctionParams {
       typescriptreact: 'function-ts.js', // react tsx
       java: 'function-java.js', // java
       python: 'function-python.js', // py
+      lua: 'function-lua.js', // lua
       rust: 'function-rust.js', // rust
       go: 'function-go.js', // go
       c: 'function-c.js',
